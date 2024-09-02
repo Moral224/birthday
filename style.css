@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* overflow: scroll; */
+    margin: 0;
+}
+
+#reveal-text{
+    color: #ff6f61;
+}
+
+img {
+    max-width: 100%;
+}
+
+#reveal-text {
+    font-size: 1.5rem;
+}
+
