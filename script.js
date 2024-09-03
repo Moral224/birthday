@@ -8,7 +8,7 @@ document.getElementById('reveal-button').addEventListener('click', function() {
     }
     
     // Insert the girlfriend's name dynamically (optional)
-    document.getElementById('her-name').textContent = "";  // Replace with the actual name
+    document.getElementById('her-name').textContent = "Ayomi";  // Replace with the actual name
 });
 
 // Hide the message when the "Hide Message" button is clicked

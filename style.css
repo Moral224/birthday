@@ -46,5 +46,8 @@ img {
     #reveal-text {
         font-size: 1.5rem;
     }
+    #message{
+        color: #ff6f61;
+    }
 }
 
