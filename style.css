@@ -12,7 +12,9 @@ body {
 #reveal-text{
     color: #ff6f61;
 }
-
+#message{
+    color: #ff6f61;
+}
 img {
     max-width: 100%;
 }
