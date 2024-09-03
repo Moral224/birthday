@@ -20,4 +20,31 @@ img {
 #reveal-text {
     font-size: 1.5rem;
 }
+@media (max-width: 767px) {
+    body {
+        background-color: #f8f9fa;
+        font-family: 'Arial', sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        width: 100%;
+        /* overflow: scroll; */
+        margin: 0;
+    }
+    
+    #reveal-text{
+        color: #ff6f61;
+        padding-top: 90vh;
+        
+    }
+    
+    img {
+        max-width: 100%;
+    }
+    
+    #reveal-text {
+        font-size: 1.5rem;
+    }
+}
 
